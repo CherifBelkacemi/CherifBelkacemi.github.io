@@ -1,6 +1,6 @@
 # Cherif Belkacemi — PhD research
 
-Academic website: https://Kyr6.github.io/
+Academic website: https://CherifBelkacemi.github.io/
 
 GitHub Pages publishes the root of the `main` branch. The site is static: edit `index.html` for content and `styles.css` for appearance. No build or dependencies are required.
 
